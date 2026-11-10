@@ -67,5 +67,6 @@ PST.NET (pst.net), FBM Cards (fbm.red), AdsCard (adscard.io), Adpos (adpos.io), 
 
 ## Что ещё в папке
 
+- `game.md` — новогодняя игра «Козырный полёт» (1–30 декабря 2026): механика, условия, призы, что нужно для посевов.
 - `product.md` — позиционирование, сегменты клиентов, задачи клиента, формат рекламного поста и чего нельзя обещать.
 - `research/ecosystem-teamlead-lemonad.md` — TeamLead, LemonAD CPA и Lemonad Card по открытым источникам.
